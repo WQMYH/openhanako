@@ -96,3 +96,6 @@ reviews/
 
 # Codex environments
 .codex/
+
+# 代码图谱
+.codegraph/
